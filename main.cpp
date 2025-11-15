@@ -6,8 +6,8 @@ struct Student
 {
     string surname;  // прізвище
     string name;   // ім’я
-    string grupa;  // група
-    int rik_nar;   // рік народження
+    string groupa;  // група
+    int year;   // рік народження
 };
 
 int main() {
